@@ -27,7 +27,7 @@ https://github.com/RavinduLakshanMalawalaArachchi/Network-Open-Port-Scanner-Tool
 
 Run the script and follow the prompts:
 
-
+python port_finder.py
 
 You will be asked to enter:
 
